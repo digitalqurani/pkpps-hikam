@@ -1,0 +1,1 @@
+export default function AdminAset(){ return (<div><h2 className='text-xl font-bold'>Manajemen Aset (contoh)</h2></div>) }

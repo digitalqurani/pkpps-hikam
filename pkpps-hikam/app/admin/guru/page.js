@@ -1,0 +1,1 @@
+export default function AdminGuru(){ return (<div><h2 className='text-xl font-bold'>Manajemen Guru (contoh)</h2></div>) }

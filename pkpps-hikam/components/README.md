@@ -1,0 +1,1 @@
+This folder contains client components: Sidebar, Navbar, AuthContext (dummy).

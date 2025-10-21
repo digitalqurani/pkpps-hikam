@@ -1,0 +1,1 @@
+export default function AdminSantri(){ return (<div><h2 className='text-xl font-bold'>Manajemen Santri (contoh)</h2></div>) }

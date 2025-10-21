@@ -1,0 +1,1 @@
+export default function AdminPengaturan(){ return (<div><h2 className='text-xl font-bold'>Pengaturan (contoh)</h2></div>) }
